@@ -1,10 +1,16 @@
-Description: in this module, I created a application that can be used by employers to help better manage an employee database. This is not a deployed application and it will be run in the integrated terminal. This application allows the user to use JavaScript to run SQL queries in order to get back certain data from a database, depending on what they are looking for created this project from scratch and includes HD CSS JavaScript in SQL. this application we use a prompt to ask the user what they would like to do depending on what they respond in SQL query is run gather that data user can run the following prompts. The data will then be shown in the integrated terminal in the form of a table.
+Description: 
+
+In this module, I created a application that can be used by employers to help better manage an employee database. This is not a deployed application and it will be run in the integrated terminal. This application allows the user to use JavaScript to run SQL queries in order to get back certain data from a database, depending on what they are looking for created this project from scratch and includes HD CSS JavaScript in SQL. this application we use a prompt to ask the user what they would like to do depending on what they respond in SQL query is run gather that data user can run the following prompts. The data will then be shown in the integrated terminal in the form of a table.
 
 User instructions the first thing you will have to do is run the command and PMI in order to install all the necessary note packages in the integrated terminal for the project. You will then stay in the integrated terminal, and you will run the command to run your schema file which will create the database that all of the information will go into. You will then run the seeds file in order to push all the seed data into the database. next, you will run the command node server in order to run the prompt. You will then be asked in the integrated terminal what you would like to do, and you have a list of options to select, depending on what you select will be shown to you from the database and the integrated terminal.
 
 Contribution guidelines In order to contribute to this page, you need to have permission from the repository owner. It is publicly viewable, but changes have to be from users that have been granted permission to make edits on the page.
 
-Screenshots:
+Screenshots:![Screenshot 2024-11-11 at 5 42 53 PM](https://github.com/user-attachments/assets/6e327e4b-e97e-46cf-8dce-fa0a5820a270)
+![Screenshot 2024-11-11 at 5 42 24 PM](https://github.com/user-attachments/assets/3d07ef37-702e-4536-b934-c5b9f4c56e8d)
+![Screenshot 2024-11-11 at 5 35 49 PM](https://github.com/user-attachments/assets/8368ef74-6f8f-44ef-9980-403023772a3d)
+
+
 
 Sources:
 
