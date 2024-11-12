@@ -6,9 +6,11 @@ User instructions the first thing you will have to do is run the command and PMI
 
 Contribution guidelines In order to contribute to this page, you need to have permission from the repository owner. It is publicly viewable, but changes have to be from users that have been granted permission to make edits on the page.
 
-Screenshots:![Screenshot 2024-11-11 at 5 42 53 PM](https://github.com/user-attachments/assets/6e327e4b-e97e-46cf-8dce-fa0a5820a270)
+Screenshots:![Screenshot 2024-11-11 at 5 42 53 PM]
+![Screenshot 2024-11-11 at 5 36 17 PM](https://github.com/user-attachments/assets/f80fb889-e452-4bd8-80e7-e912e47bde51)
+(https://github.com/user-attachments/assets/6e327e4b-e97e-46cf-8dce-fa0a5820a270)
 ![Screenshot 2024-11-11 at 5 42 24 PM](https://github.com/user-attachments/assets/3d07ef37-702e-4536-b934-c5b9f4c56e8d)
-![Screenshot 2024-11-11 at 5 35 49 PM](https://github.com/user-attachments/assets/8368ef74-6f8f-44ef-9980-403023772a3d)
+
 
 
 
