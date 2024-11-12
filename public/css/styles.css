@@ -1,0 +1,41 @@
+#body{ 
+    background-color: lightblue;
+}
+
+.blogpost-container {
+    outline: 1px solid red;
+    margin: 5px;
+}
+
+.blogpost-header {
+    /* outline: 2px solid blue; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: burlywood;
+}
+
+.blogpost-title {
+    font-size: 25px;
+}
+
+.blogpost-info {
+    font-size: 17px;
+}
+
+.blogpost-content {
+    /* outline: 2px solid blue; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.comment-container {
+    outline: 1px solid blue;
+    margin: 5px;
+    padding: 10px;
+}

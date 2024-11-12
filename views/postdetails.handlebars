@@ -1,0 +1,18 @@
+<div class="blogpost-container">
+     <div class="blogpost-header">
+        <h1 class="blogpost-title">{{blogpost.title}}</h1>
+        <h2 class="blogpost-info">Posted by {{blogpost.creator_name}} on {{date_created}}</h2>
+    </div>
+    <p class="blogpost-content">{{blogpost.content}}</p>
+    <hr />
+    <h4>Add Comment</h4>
+    {{>createcomment blogpost}}
+    <hr />
+
+    <h5>Comments:</h5>
+    {{#each blogpost.comments}}
+        <div class="comment-container">
+            <h6>{{content}}</h6>
+        </div>
+    {{/each}}
+</div>

@@ -1,0 +1,17 @@
+<h1>Welcome user! THis is your dashboard</h1>
+
+{{> createpost}}
+
+
+{{#each blogposts as |post|}}
+
+<div class="blogpost-container">
+    <div class="blogpost-header">
+        <h1 class="blogpost-title">{{post.title}}</h1>
+    </div>
+</div>
+
+{{/each}}
+
+
+
