@@ -4,7 +4,7 @@ In this module, I created a application that can be used by employers to help be
 
 User instructions:
 
-In order to run this application,  you will need to follow a series of steps. Firstly, you will have toclone the repo and open it in your own code editor. Then, you will open up the integrated terminal, and run the command ""
+In order to run this application,  you will need to follow a series of steps. Firstly, you will have toclone the repo and open it in your own code editor. Then, you will open up the integrated terminal, and run the command "node server". You will then open up your browser and go to "localhost:3001". Here you will be able to use the application to sign up, make posts, make comments, etc. Examples are provided in the screenshots below.
 
 Contribution guidelines:
 
