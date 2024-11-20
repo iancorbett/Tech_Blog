@@ -19,7 +19,7 @@ Screenshots:
 
 Sources:
 
-Throughout making this project, I did not use any starter code or any code taken directly from another repo, but I did receive some help from the class TA dungeon, as well as the class teacher Luigi. I was having some difficulty getting the data from certain prompt, but they were able to help me rewrite my code so that these prompts were getting the data that I needed.
+Throughtout completing this project, I did not copy code from any other projects or repositories, but I did receive help from a tutor named Joem. I was having issues getting the posts all save, instead of just saving the most recent post. However, he was able to help me fix this issue. One other issue I had was that the comment functionality was not working. It would not show the comments, but we were able to get this bug fixed as well. One more fix he helped me make was with the timestamps. He explained how they work and helped me implement this feature in my application. In addition to these specific fixes, he gave me very useful advice and teaching on handlebars as a whole and its upsides and downsides.
 
 License:
 
