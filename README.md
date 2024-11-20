@@ -4,7 +4,9 @@ In this module, I created a application that can be used by employers to help be
 
 User instructions the first thing you will have to do is run the command and PMI in order to install all the necessary note packages in the integrated terminal for the project. You will then stay in the integrated terminal, and you will run the command to run your schema file which will create the database that all of the information will go into. You will then run the seeds file in order to push all the seed data into the database. next, you will run the command node server in order to run the prompt. You will then be asked in the integrated terminal what you would like to do, and you have a list of options to select, depending on what you select will be shown to you from the database and the integrated terminal.
 
-Contribution guidelines In order to contribute to this page, you need to have permission from the repository owner. It is publicly viewable, but changes have to be from users that have been granted permission to make edits on the page.
+Contribution guidelines:
+
+In order to contribute to this page, you need to have permission from the repository owner. It is publicly viewable, but changes have to be from users that have been granted permission to make edits on the page.
 
 Screenshots:
 
