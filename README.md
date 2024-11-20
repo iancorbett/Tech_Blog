@@ -1,10 +1,10 @@
 Description: 
 
-In this module, I created a application that can be used by employers to help better manage an employee database. This is not a deployed application and it will be run in the integrated terminal. This application allows the user to use JavaScript to run SQL queries in order to get back certain data from a database, depending on what they are looking for created this project from scratch and includes HD CSS JavaScript in SQL. this application we use a prompt to ask the user what they would like to do depending on what they respond in SQL query is run gather that data user can run the following prompts. The data will then be shown in the integrated terminal in the form of a table.
+In this module, I created a application that can be used by people who enjoy blogs, making posts, reading posts from  others, and commenting and reacting to what they see on the blog. This project was made primarily to explore the capabilities of handlebars. I built this application from scratch, and it includes css, javascript, as well as many different handlebars files. There is a main handlebars file that applies to all of the pages on our application, as well as other handlebars files that pertain to just one page or functionality of our application. This application contains a few different functionalities. When opening up the page, you will be directed to the landing page, where you will have the option to click various links. If you click on the login link, you will have the options to log in, or create an account. Once logged in, you can make posts or navigate to the dashboard to read posts or to leave comments.
 
 User instructions:
 
-In order to run this application,  you will need to follow a series of steps. Firstly, you will have toclone the repo and open it in your own code editor. Then, you will open up the integrated terminal, and run the command "node server". You will then open up your browser and go to "localhost:3001". Here you will be able to use the application to sign up, make posts, make comments, etc. Examples are provided in the screenshots below.
+In order to run this application,  you will need to follow a series of steps. Firstly, you will have to clone the repo and open it in your own code editor. Then, you will open up the integrated terminal, and run the command "node server". You will then open up your browser and go to "localhost:3001". Here you will be able to use the application to sign up, make posts, make comments, etc. Examples are provided in the screenshots below.
 
 Contribution guidelines:
 
